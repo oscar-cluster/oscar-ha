@@ -1,0 +1,4 @@
+- heartbeat is deprecated (Only usefull for CentOs-6)
+- migrate to corosync
+- create opkg config GUI (virtual IP, ...)
+- eventualy add logic in other packages if this module is selected.

@@ -1,4 +1,4 @@
 - heartbeat is deprecated (Only usefull for CentOs-6)
-- migrate to corosync
+- migrate package to corosync (HOWTO: http://jensd.be/156/linux/building-a-high-available-failover-cluster-with-pacemaker-corosync-pcs)
 - create opkg config GUI (virtual IP, ...)
 - eventualy add logic in other packages if this module is selected.
